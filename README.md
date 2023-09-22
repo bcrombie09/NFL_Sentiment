@@ -1,10 +1,16 @@
-Sentiment Analysis of reddit comments for NFL games.
+# About:
+### This project is a sentiment analysis of all 32 NFL teams after their first game of the season. Data is gathered from each team's subreddit, and ran through a sentiment analysis package called Vader. Statistical analysis is used to determine whether a teams result (W/L) and expected result (W/L) affects reddit comments. 
 # Contents
-## SRC: 
+## SRC 
 ### Installing Code: All code used is in the SRC folder. If the repository is cloned, the code should run with the data in the data folder.
 ### Usage of Code: 
-## Data:
+#### reddit_scrapper.R -> scrapes comments from all NFL team subreddits' first season game thread.
+#### Vader_Pipeline.ipynb -> analyzes all comments gathered from web scraping for sentiment using Vader.
+#### Updating_W_L.ipynb -> updates the dataframe with game results, expected results and spread.
+#### -> Hypothesis-Testing.R -> runs statistical analysis to test our hypotheses. 
+## Data
 ### 
-## Figures:
+## Figures
 ###
-## References:
+## References
+### 
