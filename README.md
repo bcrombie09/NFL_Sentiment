@@ -3,11 +3,11 @@
 # Contents
 ## SRC 
 ### Installing Code: All code used is in the SRC folder. If the repository is cloned, the code should run with the data in the data folder.
-### Usage of Code:  
-#### reddit_scrapper.R : scrapes comments from all NFL team subreddits' first season game thread.
-#### Vader_Pipeline.ipynb : analyzes all comments gathered from web scraping for sentiment using Vader.
-#### Updating_W_L.ipynb : updates the dataframe with game results, expected results and spread.
-#### Hypothesis-Testing.R : runs statistical analysis to test our hypotheses. 
+### Usage of Code: Once the repository is cloned: the source code should be ran in the following order:  
+reddit_scrapper.R : scrapes comments from all NFL team subreddits' first season game thread.
+Vader_Pipeline.ipynb : analyzes all comments gathered from web scraping for sentiment using Vader.
+Updating_W_L.ipynb : updates the dataframe with game results, expected results and spread.
+Hypothesis-Testing.R : runs statistical analysis to test our hypotheses. 
 ## Data
 | Data file | Description |
 | --- | --- |
