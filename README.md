@@ -22,4 +22,6 @@
 | Average_Compound_Scores.png | the average compound scores from Vader for each team |
 | Comment_counts.png | number of comments per team |
 ## References
-### 
+### [1] “Welcome to Vadersentiment’s documentation!,” Welcome to VaderSentiment’s documentation! - VaderSentiment 3.3.1 documentation, https://vadersentiment.readthedocs.io/en/latest/ (accessed Sep. 24, 2023).  
+
+
